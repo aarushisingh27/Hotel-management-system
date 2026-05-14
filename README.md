@@ -26,3 +26,28 @@ A modern hotel management system built using HTML, CSS, JavaScript, and SQL sche
 
 ## Project Status
 Version 1 — Frontend simulation with in-memory database.
+
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### New Booking Form & Preview
+![Booking](screenshots/new-booking-form+preview.png)
+
+### All Bookings
+![Bookings](screenshots/all-bookings.png)
+
+### Room Inventory
+![Rooms](screenshots/room-inventory.png)
+
+### Staff Directory
+![Staff](screenshots/staff-directory.png)
+
+### Services Log
+![Services](screenshots/services-log.png)
+
+### Database Schema
+![Schema](screenshots/database-schema-1.png)
+
+![Schema](screenshots/database-schema-2.png)
